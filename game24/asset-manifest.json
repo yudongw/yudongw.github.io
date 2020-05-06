@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/game24/static/css/main.c0234b3f.chunk.css",
+    "main.js": "/game24/static/js/main.bc9d2794.chunk.js",
+    "main.js.map": "/game24/static/js/main.bc9d2794.chunk.js.map",
+    "runtime-main.js": "/game24/static/js/runtime-main.04bcbd90.js",
+    "runtime-main.js.map": "/game24/static/js/runtime-main.04bcbd90.js.map",
+    "static/js/2.ac1daf7b.chunk.js": "/game24/static/js/2.ac1daf7b.chunk.js",
+    "static/js/2.ac1daf7b.chunk.js.map": "/game24/static/js/2.ac1daf7b.chunk.js.map",
+    "index.html": "/game24/index.html",
+    "precache-manifest.55bb33c5db723b7effb46ca48ec98a41.js": "/game24/precache-manifest.55bb33c5db723b7effb46ca48ec98a41.js",
+    "service-worker.js": "/game24/service-worker.js",
+    "static/css/main.c0234b3f.chunk.css.map": "/game24/static/css/main.c0234b3f.chunk.css.map",
+    "static/js/2.ac1daf7b.chunk.js.LICENSE.txt": "/game24/static/js/2.ac1daf7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04bcbd90.js",
+    "static/js/2.ac1daf7b.chunk.js",
+    "static/css/main.c0234b3f.chunk.css",
+    "static/js/main.bc9d2794.chunk.js"
+  ]
+}
